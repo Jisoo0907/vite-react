@@ -25,6 +25,7 @@ degit Jisoo0907/vite-react <프로젝트 이름>
 ├── jsconfig.json
 ├── package.json
 ├── pnpm-lock.yaml
+├── prettier.config.cjs
 ├── README.md
 └── vite.config.js
 ```
